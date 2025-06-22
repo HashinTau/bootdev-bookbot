@@ -1,2 +1,3 @@
-# bootdev-bookbot
-A created program during the boot.dev course.
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
